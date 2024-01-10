@@ -5,3 +5,5 @@ venv
 nlp
 GoogleNews-vectors-negative300.bin
 GoogleNews-vectors-negative300.bin.gz
+word2vec-google-news-300.gz
+Assignment 3/bestmodel.pt
